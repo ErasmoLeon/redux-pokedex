@@ -1,3 +1,5 @@
+#[Redux](http://redux.js.org/) pokedex tutorial
+
 ### Install dependencies
 `npm install`
 
